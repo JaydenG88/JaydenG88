@@ -44,6 +44,5 @@ Platform to share and discover niche local businesses.
 
 ## 📫 Connect With Me
 - **LinkedIn**: https://www.linkedin.com/in/jayden-guan/ 
-- **Email**: jayden@example.com  
-
+- **Email**: jaydenguan8868@gmail.com
 
