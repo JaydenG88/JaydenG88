@@ -18,7 +18,7 @@
 ## 📌 Featured Projects
 
 ### [🏡 King County Housing Market Dashboard](https://king-county-housing-price-analysis.vercel.app/)
-- (Only desktop friendly for now)
+
 Full-stack data dashboard analyzing **King County single-family housing data**.  
 - **Frontend**: Built with **Next.js/React.js**, displaying interactive charts and a “Best Value” page ranking top homes by price/sqft. Deployed on **Vercel**.  
 - **Backend**: Simple **Flask API** serving MongoDB queries to the frontend, hosted on **Render**.  
