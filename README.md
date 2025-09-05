@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 
-### 🏡 King County Housing Market Dashboard  
+### [🏡 King County Housing Market Dashboard](https://king-county-housing-price-analysis.vercel.app/)
 Full-stack data dashboard analyzing **King County single-family housing data**.  
 - **Frontend**: Built with **Next.js/React.js**, displaying interactive charts and a “Best Value” page ranking top homes by price/sqft. Deployed on **Vercel**.  
 - **Backend**: Simple **Flask API** serving MongoDB queries to the frontend, hosted on **Render**.  
@@ -26,7 +26,7 @@ Full-stack data dashboard analyzing **King County single-family housing data**.
 
 ---
 
-### 📑 Know Your Plan (Hackathon Project)  
+### [📑 Know Your Plan (Hackathon Project)](https://devpost.com/software/knowyourplan)
 Full-stack GenAI application to simplify insurance policies and flag predatory language.  
 - **Backend**: Developed with **Flask**, handling user auth, CRUD operations, and GenAI functionality. Parsed PDFs and integrated with **Mistral AI API** to return summaries with highlighted red flags. Hosted on **Render**.  
 - **Frontend**: Built with **Next.js/React.js** by teammates.  
@@ -43,7 +43,7 @@ Platform to share and discover niche local businesses.
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: [https://www.linkedin.com/in/jayden-guan/](#)  
+- **LinkedIn**: https://www.linkedin.com/in/jayden-guan/ 
 - **Email**: jayden@example.com  
 
 
