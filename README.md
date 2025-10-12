@@ -1,8 +1,10 @@
 # Hi, I'm Jayden Guan 👋  
 
 🎓 Second-year Applied Computing student @ University of Washington Bothell  
-💻 Aspiring Software Engineer | Interested in full-stack development, data engineering, and AI integrations  
-🚀 Currently learning AWS, SpringBoot, PostgreSQL, and genAI integration while developing [LocalGems](https://github.com/JaydenG88/LocalGems)
+💻 Aspiring Software Engineer | Interested in full-stack development, data engineering, and AI integrations 
+🚀 learning AWS, SpringBoot, PostgreSQL, and genAI integration while developing [LocalGems](https://github.com/JaydenG88/LocalGems)
+🛸 Currently interning at ELDAEON as a software engineer intern, building a full-stack UAP detection dashboard
+
 
 ---
 
