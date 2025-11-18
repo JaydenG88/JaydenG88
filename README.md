@@ -38,7 +38,7 @@ Full-stack GenAI application to simplify insurance policies and flag predatory l
 
 ### 🌐 LocalGems (On Pause While Interning)  
 Platform to share and discover niche local businesses.  
-- **Backend**: Building with **Spring Boot**, planning to deploy on **AWS Elastic Beanstalk** as a Dockerized app.  
+- **Backend**: Building with **Spring Boot**, planning to deploy on **AWS EC2** as a Dockerized app.  
 - **Database**: PostgreSQL planned for structured relational data.  
 - **Frontend**: Will use **Next.js** or **React Native** for mobile-friendly compatibility.  
  
