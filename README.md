@@ -3,7 +3,7 @@
 🎓 Second-year Applied Computing student @ University of Washington Bothell  <br>
 💻 Aspiring Software Engineer | Interested in full-stack development, data engineering, and AI integrations <br>
 🚀 learning AWS, SpringBoot, PostgreSQL, and genAI integration while developing [LocalGems](https://github.com/JaydenG88/LocalGems)<br>
-🛸 Currently interning at ELDAEON as a software engineer intern, building a full-stack UAP detection dashboard
+🛸 Previously interned at ELDAEON as a software engineer intern
 
 
 ---
@@ -36,7 +36,7 @@ Full-stack GenAI application to simplify insurance policies and flag predatory l
 
 ---
 
-### 🌐 LocalGems (On Pause While Interning)  
+### 🌐 LocalGems (WIP)  
 Platform to share and discover niche local businesses.  
 - **Backend**: Building with **Spring Boot**, planning to deploy on **AWS EC2** as a Dockerized app.  
 - **Database**: PostgreSQL planned for structured relational data.  
