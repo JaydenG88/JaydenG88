@@ -2,7 +2,7 @@
 
 🎓 Second-year Applied Computing student @ University of Washington Bothell  <br>
 💻 Aspiring Software Engineer | Interested in full-stack development, data engineering, and AI integrations <br>
-☁️ Currently interning at Symphony Development Group as an API Engineer, working with Cin7 integrations with AWS and Python <br>
+☁️ Currently interning at Symphony Development Group as an API Engineer, working with Cin7 integrations using AWS and Python <br>
 🚀 learning AWS, SpringBoot, PostgreSQL, and genAI integration while developing [LocalGems](https://github.com/JaydenG88/LocalGems)<br>
 🛸 Previously interned at ELDAEON as a software engineer intern
 
