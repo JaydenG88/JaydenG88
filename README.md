@@ -1,52 +1,37 @@
-# Hi, I'm Jayden Guan 👋  
+# Jayden Guan
 
-🎓 Second-year Applied Computing student @ University of Washington Bothell  <br>
-💻 Aspiring Software Engineer | Interested in full-stack development, data engineering, and AI integrations <br>
-☁️ Currently interning at Symphony Development Group as an API Engineer, working with Cin7 integrations using AWS and Python <br>
-🚀 learning AWS, SpringBoot, PostgreSQL, and genAI integration while developing [LocalGems](https://github.com/JaydenG88/LocalGems)<br>
-🛸 Previously interned at ELDAEON as a software engineer intern
+Computer Science & Software Engineering student at University of Washington Bothell. Interested in backend systems, cloud infrastructure, and AI-integrated tooling.
 
+Currently: Software Engineer Intern at Symetra Financial, working on observability and distributed tracing for AWS Lambda/ECS services with Datadog and Claude Code.
 
----
-
-## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Java, SQL
-- **Frameworks & Libraries**: React.js, Next.js, Flask, Spring Boot
-- **Databases**: MongoDB, PostgreSQL  
-- **Cloud & Tools**: Docker, GitHub Actions, Vercel, Render  
-- **Other**: Pandas, NumPy, Selenium, BeautifulSoup  
+Previously: Symphony Development Group (API integrations, AWS Lambda), ELDAEON (real-time sensor dashboards, FastAPI).
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### [🏡 King County Housing Market Dashboard](https://king-county-housing-price-analysis.vercel.app/)
+**Languages:** Python, TypeScript, JavaScript, Java, SQL, C++
 
-Full-stack data dashboard analyzing **King County single-family housing data**.  
-- **Frontend**: Built with **Next.js/React.js**, displaying interactive charts and a “Best Value” page ranking top homes by price/sqft. Deployed on **Vercel**.  
-- **Backend**: Simple **Flask API** serving MongoDB queries to the frontend, hosted on **Render**.  
-- **Data Pipeline**: Custom ETL pipeline using **Python, Pandas, NumPy, Selenium, and BeautifulSoup**, automated weekly with **GitHub Actions**.  
-- **Database**: MongoDB Atlas for scalable data storage.  
+**Frameworks:** FastAPI, Flask, Fastify, Spring Boot, React, Next.js
 
----
+**Cloud & Infra:** AWS (Lambda, EC2, S3, RDS), Docker, GitHub Actions, Serverless Framework, Datadog
 
-### [📑 Know Your Plan (Hackathon Project)](https://devpost.com/software/knowyourplan)
-Full-stack GenAI application to simplify insurance policies and flag predatory language.  
-- **Backend**: Developed with **Flask**, handling user auth, CRUD operations, and GenAI functionality. Parsed PDFs and integrated with **Mistral AI API** to return summaries with highlighted red flags. Hosted on **Render**.  
-- **Frontend**: Built with **Next.js/React.js** by teammates.  
+**Databases:** PostgreSQL, MongoDB
+
+**Other:** Claude Code, Cursor, Pandas, NumPy
 
 ---
 
-### 🌐 LocalGems (WIP)  
-Platform to share and discover niche local businesses.  
-- **Backend**: Building with **Spring Boot**, planning to deploy on **AWS EC2** as a Dockerized app.  
-- **Database**: PostgreSQL planned for structured relational data.  
-- **Frontend**: Will use **Next.js** or **React Native** for mobile-friendly compatibility.  
- 
+## Projects
+
+**[King County Housing Market Dashboard](https://king-county-housing-price-analysis.vercel.app/)**
+React dashboard visualizing pricing trends across 35+ cities, backed by an automated ETL pipeline (Pandas, GitHub Actions) into MongoDB.
+
+**[Know Your Plan](https://devpost.com/software/knowyourplan)**
+Hackathon project — full-stack GenAI tool that parses insurance policies and summarizes key terms using the Mistral API.
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn**: https://www.linkedin.com/in/jayden-guan/ 
-- **Email**: jaydenguan8868@gmail.com
+## Contact
 
+[LinkedIn](https://www.linkedin.com/in/jayden-guan/) · jaydenguan8868@gmail.com
